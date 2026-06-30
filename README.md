@@ -1,18 +1,18 @@
 # Hi 👋, I'm Angga
 
 ## 🙋 About Me
-An undergraduate Software Engineering Technology student interested in Full-Stack Web Development and Automation Engineering.
+An undergraduate Software Engineering Technology student interested in Full-Stack Web Development and AI Integration Development.
 
 Currently working as a Web Developer for a small food business while building projects to improve my problem-solving skills through programming.
 
 ## 🌱 Currently Learning
 - JavaScript (Intermediate-Advanced)
-- n8n Workflow Automation
+- AI Integration Development
 
 ## 🎯 Goals
 - Become a Full-Stack Web Developer
-- Become an Automation Engineer
-- Build Automation-powered Web Applications
+- Become an AI Integration Engineer
+- Build AI-powered Web Applications
 
 ## 🛠️ Tech Stack
 ### Front-End
